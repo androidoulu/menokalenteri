@@ -4,4 +4,6 @@
     <string name="app_name">Menokalenteri</string>
     <string name="test">Test</string>
     <string name="foobar">Foobar</string>    
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
 </resources>
