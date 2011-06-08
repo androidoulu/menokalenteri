@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, MenokalenteriActivity!</string>
+    <string name="hello">Monokalenteri!</string>
     <string name="app_name">Menokalenteri</string>
     <string name="test">Test</string>
 </resources>
